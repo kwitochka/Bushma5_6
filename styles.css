@@ -1,0 +1,20 @@
+
+#wrapper {
+	width: 500px;
+	margin: 0 auto;
+} 
+
+
+body {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+#timer {
+		border: 3px #000;
+		margin-left: 83px;
+}
+
+.btn {
+    font-size: 50px;  
+}
